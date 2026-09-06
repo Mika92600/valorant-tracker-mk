@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "notes": "Bouton Panneau live plus visible.",
-  "sha256": "0163bf4ccd27748d71f62f23850451879226e5d92b1194dd8dba5cf5b204d711",
+  "version": "1.7.0",
+  "notes": "Application automatique des mises a jour.",
+  "sha256": "13a989763e93c0e335dc6733ec5b48b827d3a756e05d806cf54d752342c90236",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
