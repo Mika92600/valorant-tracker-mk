@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "notes": "Verification des mises a jour toutes les 20 minutes.",
-  "sha256": "9a3829bc599d905dcbc956d7767af99542b6a6f817a57b427dd8d1cb6ad386d1",
+  "version": "1.10.0",
+  "notes": "Correctif du bloc de progression, colonnes d armes explicitees.",
+  "sha256": "fe44ac44825f1ffeccbca2488f74e27313b0efafe05d7b2df076a0dbe047e8d7",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
