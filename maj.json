@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "notes": "Stats en duo, classement dans tes lobbies, face a face.",
-  "sha256": "3ef9e0861e2f10acddd9a9a6f530c0e2501d28254ee9b5b4700a460624722729",
+  "version": "1.9.0",
+  "notes": "Deux fenetres, verdicts de partie coherents, plan priorise.",
+  "sha256": "7173923d60ddaa877195dd9d7807881ddab796d7518c29cbbcf2e68396a7d804",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
