@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "notes": "Correctif du bloc de progression, colonnes d armes explicitees.",
-  "sha256": "fe44ac44825f1ffeccbca2488f74e27313b0efafe05d7b2df076a0dbe047e8d7",
+  "version": "1.11.0",
+  "notes": "Silhouettes de tir par arme et taux de kills a la tete.",
+  "sha256": "a2f78bc4b837e7d601f18170011a15e83a66de75f1ee8b588a39937ad8f95d12",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
