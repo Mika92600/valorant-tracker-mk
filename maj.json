@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "notes": "Deux fenetres, verdicts de partie coherents, plan priorise.",
-  "sha256": "7173923d60ddaa877195dd9d7807881ddab796d7518c29cbbcf2e68396a7d804",
+  "version": "1.9.1",
+  "notes": "Verification des mises a jour toutes les 20 minutes.",
+  "sha256": "9a3829bc599d905dcbc956d7767af99542b6a6f817a57b427dd8d1cb6ad386d1",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
