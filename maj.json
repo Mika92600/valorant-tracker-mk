@@ -1,6 +1,6 @@
 {
-  "version": "1.23.0",
-  "notes": "Viewmodel en vraie 3D : modele en volume aux proportions reelles, projete avec la camera du jeu, avec les mains.",
-  "sha256": "72bf4c93d168a8e1846eb60917d23da38beb3983bb647ccc4ce673c556e1a536",
+  "version": "1.24.0",
+  "notes": "Salle en 3D et deplacements ZQSD avec erreur de tir en mouvement, 18 exercices, viseur entierement personnalisable et importable, zone de tete recentree, recul applique apres la balle.",
+  "sha256": "d86b81b3b0b29d083d9aed0548b319f3a57ef630e148407d86f58563e9b9a5e5",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
