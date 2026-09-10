@@ -1,6 +1,6 @@
 {
-  "version": "1.12.1",
-  "notes": "Le bandeau de mise a jour apparait en moins d une minute.",
-  "sha256": "a92fd1da31cf252081d7d0a44da1832170a15d94a412a1d4630fde3bc13c4dc6",
+  "version": "1.17.1",
+  "notes": "MyValoTrack : aim trainer, succes, heatmap, agent conseille.",
+  "sha256": "cb8d8d7a900c80b9184374c0f4b2c7c2b0da1eaa5a6231004d964a107b38f42c",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
