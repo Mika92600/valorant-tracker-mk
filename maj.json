@@ -1,6 +1,6 @@
 {
   "version": "1.23.0",
-  "notes": "Viewmodel en vraie 3D : l'arme est un modele en volume projete avec la camera du jeu, avec les mains.",
-  "sha256": "daca832ccd43af8f5a26aff4c24cf5bbd46fa16d804b0c06d35795116e6b1beb",
+  "notes": "Viewmodel en vraie 3D : modele en volume aux proportions reelles, projete avec la camera du jeu, avec les mains.",
+  "sha256": "72bf4c93d168a8e1846eb60917d23da38beb3983bb647ccc4ce673c556e1a536",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
