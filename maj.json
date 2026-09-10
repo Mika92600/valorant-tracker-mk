@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "notes": "Aim trainer : rafale, recul, lunette, niveaux. Design arrondi.",
-  "sha256": "23ee18296a0ed4811836f8423e49304587b27de58767b023cedbb3956844d5ec",
+  "version": "1.20.0",
+  "notes": "Aim trainer refait : 15 exercices, 8 armes, viseur personnalisable, tir automatique, difficultes facile/normal/difficile/perso, FOV Valorant, cibles toujours a l'ecran.",
+  "sha256": "37ae93a4ca8aa3e2c44568027cc41c18578c7a887912dac6644dbe9900112139",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
