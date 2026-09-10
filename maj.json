@@ -1,6 +1,6 @@
 {
-  "version": "1.26.0",
-  "notes": "95 reticules ranges par famille, avec filtres et recherche.",
-  "sha256": "674505b7fc02318a62c87aed2b8c52dab1a3e87b916ed794c5b31fdc2b65838c",
+  "version": "1.27.0",
+  "notes": "Fenetre : barre de titre sombre, option plein ecran sans bordure, et manifeste pour installer l'app sans cadre Windows.",
+  "sha256": "c451a30a7d2056b7c93c96ef720478afa981b6927ef37b0edabb053085e3c684",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
