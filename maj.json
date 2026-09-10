@@ -1,6 +1,6 @@
 {
-  "version": "1.25.0",
-  "notes": "Bibliotheque de viseurs et simulateur d'economie dans le tracker, session guidee et defi du jour dans l'aim trainer.",
-  "sha256": "e0362bbaaec9cd10a552f18a09550ecde72d4314511f7e89a657e151e9c71a8a",
+  "version": "1.26.0",
+  "notes": "95 reticules ranges par famille, avec filtres et recherche.",
+  "sha256": "674505b7fc02318a62c87aed2b8c52dab1a3e87b916ed794c5b31fdc2b65838c",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
