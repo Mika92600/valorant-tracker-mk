@@ -1,6 +1,6 @@
 {
-  "version": "1.18.1",
-  "notes": "Marche a suivre pour la cle API.",
-  "sha256": "17aa49468cd0b434dcbad0326a7a86d42da02f20867daf7950dbeeddb8c47429",
+  "version": "1.19.0",
+  "notes": "Aim trainer : rafale, recul, lunette, niveaux. Design arrondi.",
+  "sha256": "23ee18296a0ed4811836f8423e49304587b27de58767b023cedbb3956844d5ec",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
