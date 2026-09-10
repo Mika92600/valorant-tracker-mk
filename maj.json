@@ -1,6 +1,6 @@
 {
-  "version": "1.17.1",
-  "notes": "MyValoTrack : aim trainer, succes, heatmap, agent conseille.",
-  "sha256": "cb8d8d7a900c80b9184374c0f4b2c7c2b0da1eaa5a6231004d964a107b38f42c",
+  "version": "1.18.1",
+  "notes": "Marche a suivre pour la cle API.",
+  "sha256": "17aa49468cd0b434dcbad0326a7a86d42da02f20867daf7950dbeeddb8c47429",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
