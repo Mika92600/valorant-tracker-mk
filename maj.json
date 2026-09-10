@@ -1,6 +1,6 @@
 {
-  "version": "1.24.0",
-  "notes": "Salle en 3D et deplacements ZQSD avec erreur de tir en mouvement, 18 exercices, viseur entierement personnalisable et importable, zone de tete recentree, recul applique apres la balle.",
-  "sha256": "d86b81b3b0b29d083d9aed0548b319f3a57ef630e148407d86f58563e9b9a5e5",
+  "version": "1.25.0",
+  "notes": "Bibliotheque de viseurs et simulateur d'economie dans le tracker, session guidee et defi du jour dans l'aim trainer.",
+  "sha256": "e0362bbaaec9cd10a552f18a09550ecde72d4314511f7e89a657e151e9c71a8a",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
