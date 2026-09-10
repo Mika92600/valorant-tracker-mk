@@ -1,6 +1,6 @@
 {
-  "version": "1.20.0",
-  "notes": "Aim trainer refait : 15 exercices, 8 armes, viseur personnalisable, tir automatique, difficultes facile/normal/difficile/perso, FOV Valorant, cibles toujours a l'ecran.",
-  "sha256": "37ae93a4ca8aa3e2c44568027cc41c18578c7a887912dac6644dbe9900112139",
+  "version": "1.21.0",
+  "notes": "Verification des mises a jour a la demande, installation en un clic, et contournement du cache GitHub.",
+  "sha256": "a84cb259b8c91a6b519ae582568187488465fbc72bcaf3150eb60afaeef9d144",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
