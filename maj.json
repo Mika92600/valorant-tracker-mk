@@ -1,6 +1,6 @@
 {
-  "version": "1.27.0",
-  "notes": "Fenetre : barre de titre sombre, option plein ecran sans bordure, et manifeste pour installer l'app sans cadre Windows.",
-  "sha256": "c451a30a7d2056b7c93c96ef720478afa981b6927ef37b0edabb053085e3c684",
+  "version": "1.29.0",
+  "notes": "L'archive en ligne est rangee sous un identifiant tire au sort au lieu du puuid public, avec migration de l'ancienne et code de recuperation. Correction : les reglages gardes a cote de l'exe ne se sauvegardaient pas.",
+  "sha256": "ca75de3375cbf1f681df94eb9c6383aecd6fdad93d9ede499b5e8ae4d5477bcc",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
