@@ -1,6 +1,6 @@
 {
-  "version": "1.29.0",
-  "notes": "L'archive en ligne est rangee sous un identifiant tire au sort au lieu du puuid public, avec migration de l'ancienne et code de recuperation. Correction : les reglages gardes a cote de l'exe ne se sauvegardaient pas.",
-  "sha256": "ca75de3375cbf1f681df94eb9c6383aecd6fdad93d9ede499b5e8ae4d5477bcc",
+  "version": "1.33.0",
+  "notes": "Correction : le panneau live pouvait s'ouvrir plusieurs fois dans une meme partie.",
+  "sha256": "20584cdca0fa6c1ecbe5942e854be65a4fc3c1a6373a633d82eed6201fdbd979",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
