@@ -1,6 +1,6 @@
 {
-  "version": "1.33.0",
-  "notes": "Correction : le panneau live pouvait s'ouvrir plusieurs fois dans une meme partie.",
-  "sha256": "20584cdca0fa6c1ecbe5942e854be65a4fc3c1a6373a633d82eed6201fdbd979",
+  "version": "1.34.0",
+  "notes": "Contrôle de spray : la cible encaisse un chargeur au lieu de tomber a la premiere balle.",
+  "sha256": "23d2489dd79bd2b4856cddb808c1ae1fcfcf1e9029172ad9948f8dcdd73be60b",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
