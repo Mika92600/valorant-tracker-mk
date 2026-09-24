@@ -1,6 +1,6 @@
 {
-  "version": "1.34.0",
-  "notes": "Contrôle de spray : la cible encaisse un chargeur au lieu de tomber a la premiere balle.",
-  "sha256": "23d2489dd79bd2b4856cddb808c1ae1fcfcf1e9029172ad9948f8dcdd73be60b",
+  "version": "2.0.0",
+  "notes": "Refonte complete : nouvelle interface a barre laterale, pages Strategie, Skins et Wiki, agents et cartes en visuel.",
+  "sha256": "284b6bc3bc34e4e3900696ea73bd9c59ff3d02fca5981876125b61c88fde706b",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
