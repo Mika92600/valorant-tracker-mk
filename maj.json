@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "notes": "Refonte complete : nouvelle interface a barre laterale, pages Strategie, Skins et Wiki, agents et cartes en visuel.",
-  "sha256": "284b6bc3bc34e4e3900696ea73bd9c59ff3d02fca5981876125b61c88fde706b",
+  "version": "2.2.0",
+  "notes": "Patch Valorant 13.06 : score de performance detecte et separe de l'ACS, Warden ajoute, mode Gauntlet reconnu, note de mise a jour. Et une refonte du fini visuel : nouvelles polices, profondeur, transitions.",
+  "sha256": "975362b84f0bb0892a3d12f3578e396e79c22f2b595561f38c28239498757254",
   "url": "https://raw.githubusercontent.com/Mika92600/valorant-tracker-mk/main/contenu.cjs"
 }
